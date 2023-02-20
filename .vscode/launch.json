@@ -10,7 +10,7 @@
             "request": "launch",
             "mode": "auto",
             "cwd": "${workspaceRoot}",
-            "program": "${workspaceRoot}/cmd/convertData",
+            "program": "${workspaceRoot}/cmd/tl_convert_data",
             "env": {
                 "LOG_LEVEL": "debug"
             },
